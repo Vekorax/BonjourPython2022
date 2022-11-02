@@ -3,7 +3,7 @@ import main as bonjour
 
 
 def main():
-    bonjour.print_hi('Morin F.')
+    bonjour.print_hi('Morin F. alias FM')
     bonjour.compter(8)
 
 
