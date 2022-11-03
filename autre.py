@@ -3,8 +3,8 @@ import main as bonjour
 
 
 def main():
-    bonjour.print_hi('Morin F. alias FM')
-    bonjour.compter(8)
+    bonjour.bonjour('Morin F. alias FM')
+    bonjour.compter(8, 0.5)
 
 
 if __name__ == '__main__':
