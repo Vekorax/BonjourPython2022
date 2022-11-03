@@ -3,6 +3,9 @@ import main as bonjour
 
 
 def main():
+    """
+    Fonction principale
+    """
     bonjour.bonjour('Morin F. alias FM')
     bonjour.compter(8, 0.5)
 
