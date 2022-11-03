@@ -1,4 +1,10 @@
 #!/usr/bin/env python3
+"""
+Autre script pour appeler les fonctions
+du script principal, version 1.
+
+Par: Fabrice Morin
+"""
 import main as bonjour
 
 
